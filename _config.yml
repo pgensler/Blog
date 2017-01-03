@@ -1,0 +1,28 @@
+title: Peter Gensler
+tagline: "test"
+description: "test"
+baseurl: ""
+url: ""
+email: peterjgensler@gmail.com
+twitter_username: stankyy_pete
+github_username:  pgensler
+linkedin_link: https://www.linkedin.com/in/petergensler/
+timezone: America/Chicago
+
+markdown: kramdown
+permalink: pretty
+#excerpt_separator: <!--more-->
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+  input: GFM
+
+#lsi: true
+
+paginate: 10
+paginate_path: "blog/p:num"
