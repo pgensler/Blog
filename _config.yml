@@ -10,6 +10,7 @@ linkedin_link: https://www.linkedin.com/in/petergensler/
 timezone: America/Chicago
 
 markdown: kramdown
+comments: true
 permalink: pretty
 #excerpt_separator: <!--more-->
 
